@@ -1,4 +1,9 @@
 
+
+def greet(name):
+    """Return a personalized greeting."""
+    return f"Hello, {name}!"
+
 def square(n):
     """Return the square of a number."""
     return n ** 2
